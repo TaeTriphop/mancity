@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mancity/static/css/main.b8470dfd.css",
+    "main.js": "/mancity/static/js/main.36f8fc2c.js",
+    "static/js/787.5b23d059.chunk.js": "/mancity/static/js/787.5b23d059.chunk.js",
+    "index.html": "/mancity/index.html",
+    "main.b8470dfd.css.map": "/mancity/static/css/main.b8470dfd.css.map",
+    "main.36f8fc2c.js.map": "/mancity/static/js/main.36f8fc2c.js.map",
+    "787.5b23d059.chunk.js.map": "/mancity/static/js/787.5b23d059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8470dfd.css",
+    "static/js/main.36f8fc2c.js"
+  ]
+}
