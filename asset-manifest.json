@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mancity/static/css/main.b8470dfd.css",
+    "main.css": "/mancity/static/css/main.c8e8d3d0.css",
     "main.js": "/mancity/static/js/main.36f8fc2c.js",
     "static/js/787.5b23d059.chunk.js": "/mancity/static/js/787.5b23d059.chunk.js",
     "index.html": "/mancity/index.html",
-    "main.b8470dfd.css.map": "/mancity/static/css/main.b8470dfd.css.map",
+    "main.c8e8d3d0.css.map": "/mancity/static/css/main.c8e8d3d0.css.map",
     "main.36f8fc2c.js.map": "/mancity/static/js/main.36f8fc2c.js.map",
     "787.5b23d059.chunk.js.map": "/mancity/static/js/787.5b23d059.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8470dfd.css",
+    "static/css/main.c8e8d3d0.css",
     "static/js/main.36f8fc2c.js"
   ]
 }
