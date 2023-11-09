@@ -11,7 +11,7 @@ export default function Players({ teamData }: { teamData: interfaceTeam | null }
 
   return (
     <>
-       <Forwards forwardsPlayers={teamData.players} />
+      <Forwards forwardsPlayers={teamData.players} />
       <Midfielders midfieldersPlayers={teamData.players} />
       <Defenders defendersPlayers={teamData.players} />
       <Goalkeepers goalkeepersPlayers={teamData.players} />
